@@ -1784,3 +1784,11 @@ body.is-article-visible #footer {
 body.is-preload #footer {
 	opacity: 0;
 }
+
+.projects {
+	transition: 0.7s
+}
+
+.projects:hover {
+	transform: scale(1.07)
+}
