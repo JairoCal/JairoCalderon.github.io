@@ -1792,3 +1792,52 @@ body.is-preload #footer {
 .projects:hover {
 	transform: scale(1.07)
 }
+
+.devicon-react-original-wordmark {
+	font-size: 3rem
+}
+.devicon-redux-original {
+	font-size: 3rem
+}
+.devicon-javascript-plain  {
+	font-size: 3rem
+}
+.devicon-html5-plain-wordmark {
+	font-size: 3rem
+}
+.devicon-css3-plain-wordmark {
+	font-size: 3rem
+}
+.devicon-express-original-wordmark {
+	font-size: 3.0rem
+}
+.devicon-nodejs-plain-wordmark {
+	font-size: 3rem
+}
+.devicon-postgresql-plain-wordmark{
+	font-size: 3rem
+}
+.devicon-python-plain-wordmark {
+	font-size: 3rem;
+}
+.devicon-flask-original-wordmark{
+	font-size: 3.0rem
+}
+.devicon-jquery-plain-wordmark{
+	font-size: 3rem
+}
+.devicon-cplusplus-line-wordmark {
+	font-size: 3rem
+}
+
+.first_icons {
+	margin-bottom: 25px
+}
+
+#icon {
+	margin: 0px 25px;
+}
+
+.bilingual {
+	margin-top: 25px
+}
